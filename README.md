@@ -1,3 +1,3 @@
 # DevOps is collabration between dev and ops
-Learning the DevOps
+Learning
 add project related operation updates
